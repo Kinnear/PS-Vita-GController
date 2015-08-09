@@ -1,0 +1,9 @@
+shaders/Simple.cgx
+app.exe
+Sce.PlayStation.HighLevel.UI.dll
+System.Json.dll
+System.Xml.dll
+System.Runtime.Serialization.dll
+System.Core.dll
+System.ServiceModel.Web.dll
+System.ServiceModel.dll

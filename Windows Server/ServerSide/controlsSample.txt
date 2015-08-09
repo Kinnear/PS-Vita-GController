@@ -1,0 +1,18 @@
+cross = spacebar
+circle = F3
+square = E
+triangle = Shift
+
+up = w
+down = s
+right = d
+left = a
+
+L = Right mouse button
+R = Left mouse button
+
+start = esc
+select = 
+
+analogLeft = Mouse scroll?
+analogRight = mouse Movement

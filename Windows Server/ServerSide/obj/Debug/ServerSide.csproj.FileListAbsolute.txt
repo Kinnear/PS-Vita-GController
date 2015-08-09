@@ -1,0 +1,16 @@
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\InputSimulator.dll
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\InputSimulator.pdb
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\InputSimulator.xml
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\obj\Debug\ServerSide.Form1.resources
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\obj\Debug\ServerSide.Properties.Resources.resources
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.GenerateResource.Cache
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\obj\Debug\ServerSide.pdb
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kinnear\Desktop\ServerSide\ServerSide\obj\Debug\ServerSide.KeyBind.resources
