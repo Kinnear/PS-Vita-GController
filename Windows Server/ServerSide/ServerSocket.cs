@@ -7,7 +7,7 @@ using System.Threading;
 using System.Net;
 using WindowsInput;
 
-// for seraliazation
+// for Serialization
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization;
 using System.Reflection;
